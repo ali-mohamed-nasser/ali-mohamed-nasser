@@ -1,4 +1,4 @@
-### Hello World! <img src="https://github.com/ali-mohamed-nasser/ali-mohamed-nasser/blob/main/icons/hello.gif" width="35"> it's me
+### Hello World! it's Ali <img src="https://github.com/ali-mohamed-nasser/ali-mohamed-nasser/blob/main/icons/hello.gif" width="25">
 
 ### 🔨 Languages and Tools:
 
