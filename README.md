@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello World! <img src="https://github.com/ali-mohamed-nasser/ali-mohamed-nasser/blob/main/icons/hello.gif" width="200">
+
+### 🔨 Languages and Tools:
 
 <!--
 **ali-mohamed-nasser/ali-mohamed-nasser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
