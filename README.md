@@ -34,4 +34,4 @@ An experienced web designer with a demonstrated history in designing and develop
 <a href="https://www.adobe.com/products/xd.html" target="_blank"><img align="left" src="https://github.com/ali-mohamed-nasser/ali-mohamed-nasser/blob/main/icons/adobe-xd.svg" alt="adobe xd"/></a>
 <br />
 #
-<img height="190px" src="https://github-readme-stats.vercel.app/api?username=ali-mohamed-nasser&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /><img height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali-mohamed-nasser&show_icons=true&hide_border=true&layout=compact&langs_count=8" />
+<img height="195px" src="https://github-readme-stats.vercel.app/api?username=ali-mohamed-nasser&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /><img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali-mohamed-nasser&show_icons=true&hide_border=true&layout=compact&langs_count=8" />
