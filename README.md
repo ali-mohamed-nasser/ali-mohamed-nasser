@@ -23,6 +23,6 @@ An experienced web designer with a demonstrated history in designing and develop
 <a href="https://www.java.com" target="_blank"><img align="left" src="https://github.com/ali-mohamed-nasser/ali-mohamed-nasser/blob/main/icons/java.svg" alt="Java"></a>
 <a href="https://www.python.org" target="_blank"><img align="left" src="https://github.com/ali-mohamed-nasser/ali-mohamed-nasser/blob/main/icons/python.svg" alt="Python"></a>
 <a href="https://www.tensorflow.org" target="_blank"><img align="left" src="https://github.com/ali-mohamed-nasser/ali-mohamed-nasser/blob/main/icons/tensorflow.svg" alt="tensorflow"/></a> 
-<a href="https://git-scm.com/" target="_blank"> <img src="https://github.com/ali-mohamed-nasser/ali-mohamed-nasser/blob/main/icons/git-scm.svg" align="left" alt="git"/></a>
+<a href="https://git-scm.com/" target="_blank"> <img src="https://github.com/ali-mohamed-nasser/ali-mohamed-nasser/blob/main/icons/git.svg" align="left" alt="git"/></a>
 <a href="https://code.visualstudio.com/" target="_blank"><img align="left" src="https://github.com/ali-mohamed-nasser/ali-mohamed-nasser/blob/main/icons/vscode.svg" alt="vs code"/></a>
 <a href="https://www.adobe.com/products/xd.html" target="_blank"><img align="left" src="https://github.com/ali-mohamed-nasser/ali-mohamed-nasser/blob/main/icons/adobe-xd.svg" alt="adobe xd"/></a>
