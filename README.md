@@ -1,7 +1,11 @@
 ## Hello World! I am Ali <img src="https://github.com/ali-mohamed-nasser/ali-mohamed-nasser/blob/main/icons/hello.gif" width="26">
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ali-mohamed-nasser/)
+[![Behance Badge](https://img.shields.io/badge/-Behance-131418?style=flat-square&logo=Behance&logoColor=white)](https://www.behance.net/ali_mohamed_nasser)
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/ali.naser1997)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/accounts/login/)
+[![Flicker Badge](https://img.shields.io/badge/-Flicker-ff0084?style=flat-square&logo=Flicker&logoColor=white)](https://www.flickr.com/photos/ali_mohamed_nasser)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/ali_mohamed_nasser)
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-25d366?style=flat-square&logo=Whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=963938402636)
 
 ### About Me:
 An experienced web designer with a demonstrated history in designing and developing websites. Skilled in graphic design, UI/UX, web, and mobile apps interfaces, with the ability to perform meticulously with strict deadlines under pressure and with minimal supervision. I have a passion for design, an eye for detail, and a technical and creative mind to create a story for your business together on the website, not only for visually pleasing the watcher but an intriguing story that creates a mood draws the viewers and making them wait for your next product.
