@@ -4,6 +4,7 @@
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/ali.naser1997)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/ali_mohamed_nasser/)
 [![Dribbble Badge](https://img.shields.io/badge/-Dribbble-ea4c89?style=flat-square&logo=Dribbble&logoColor=white)](https://dribbble.com/ali_mohamed_nasser)
+[![Pinterest Badge](https://img.shields.io/badge/-Pinterest-bd081c?style=flat-square&logo=Pinterest&logoColor=white)](https://ro.pinterest.com/ali_mohamed_nasser/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/ali_mohamed_nasser)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-25d366?style=flat-square&logo=Whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=963938402636)
 
