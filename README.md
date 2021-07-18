@@ -11,16 +11,20 @@ An experienced web designer with a demonstrated history in designing and develop
 - 📫 How to reach me: [Send me an email](mailto:ali.nasser.it@gmail.com)
 
 ### 🔨 Languages and Tools:
-<a href="https://www.w3schools.com/html/" target="_blank"> <img align="left" src="https://github.com/ali-mohamed-nasser/ali-mohamed-nasser/blob/main/icons/html5.svg" alt="html5" height="36px"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank"> <img align="left" src="https://github.com/ali-mohamed-nasser/ali-mohamed-nasser/blob/main/icons/css.svg" alt="css" height="36px"/> </a> 
-<a href="https://sass-lang.com/" target="_blank"> <img align="left" src="https://github.com/ali-mohamed-nasser/ali-mohamed-nasser/blob/main/icons/sass.svg" alt="sass" height="36px"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="36px"  src="https://github.com/ali-mohamed-nasser/ali-mohamed-nasser/blob/main/icons/javascript.svg"> </a>
-<a href="https://getbootstrap.com/" target="_blank"><img align="left" src="https://github.com/ali-mohamed-nasser/ali-mohamed-nasser/blob/main/icons/jquery-original.svg" alt="bootstrap" height="36px"/></a>
-<a href="https://jquery.com/" target="_blank"><img align="left" src="https://github.com/ali-mohamed-nasser/ali-mohamed-nasser/blob/main/icons/bootstrap.svg" alt="jquery-original" height="36px"/></a>
-<a href="https://reactjs.org/" target="_blank"><img align="left" alt="React" height ="36px" src="https://github.com/ali-mohamed-nasser/ali-mohamed-nasser/blob/main/icons/react.svg"></a>
-<a href="https://redux.js.org/" target="_blank"> <img align="left" src="https://github.com/ali-mohamed-nasser/ali-mohamed-nasser/blob/main/icons/redux.svg" alt="redux" height="36px"/></a> 
-<a href="https://firebase.google.com/" target="_blank"> <img align="left" src="https://github.com/ali-mohamed-nasser/ali-mohamed-nasser/blob/main/icons/firebase.svg" alt="firebase" height ="36px"/></a>
-<a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="36px" src="https://github.com/ali-mohamed-nasser/ali-mohamed-nasser/blob/main/icons/java.svg"></a>
-<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="36px" src="https://github.com/ali-mohamed-nasser/ali-mohamed-nasser/blob/main/icons/python.svg"></a>
-<a href="https://www.tensorflow.org" target="_blank"> <img align="left" src="https://github.com/ali-mohamed-nasser/ali-mohamed-nasser/blob/main/icons/tensorflow.svg" alt="tensorflow" height="36px"/></a> 
-<a href="https://git-scm.com/" target="_blank"> <img src="https://github.com/ali-mohamed-nasser/ali-mohamed-nasser/blob/main/icons/git-scm.svg" align="left" alt="git" height='36px'/></a>
+<a href="https://www.w3schools.com/html/" target="_blank"><img align="left" src="https://github.com/ali-mohamed-nasser/ali-mohamed-nasser/blob/main/icons/html.svg" alt="html5"/></a> 
+<a href="https://www.w3schools.com/css/" target="_blank"><img align="left" src="https://github.com/ali-mohamed-nasser/ali-mohamed-nasser/blob/main/icons/css.svg" alt="css3"/></a>
+<a href="https://sass-lang.com/" target="_blank"><img align="left" src="https://github.com/ali-mohamed-nasser/ali-mohamed-nasser/blob/main/icons/sass.svg" alt="sass"/> </a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img align="left" src="https://github.com/ali-mohamed-nasser/ali-mohamed-nasser/blob/main/icons/javascript.svg" alt="JavaScript"></a>
+<a href="https://getbootstrap.com/" target="_blank"><img align="left" src="https://github.com/ali-mohamed-nasser/ali-mohamed-nasser/blob/main/icons/jquery-original.svg" alt="bootstrap"/></a>
+<a href="https://jquery.com/" target="_blank"><img align="left" src="https://github.com/ali-mohamed-nasser/ali-mohamed-nasser/blob/main/icons/bootstrap.svg" alt="jquery-original"/></a>
+<a href="https://reactjs.org/" target="_blank"><img align="left" src="https://github.com/ali-mohamed-nasser/ali-mohamed-nasser/blob/main/icons/react.svg" alt="React"></a>
+<a href="https://redux.js.org/" target="_blank"> <img align="left" src="https://github.com/ali-mohamed-nasser/ali-mohamed-nasser/blob/main/icons/redux.svg" alt="redux"/></a> 
+<a href="https://firebase.google.com/" target="_blank"> <img align="left" src="https://github.com/ali-mohamed-nasser/ali-mohamed-nasser/blob/main/icons/firebase.svg" alt="firebase"/></a>
+<a href="https://www.java.com" target="_blank"><img align="left" src="https://github.com/ali-mohamed-nasser/ali-mohamed-nasser/blob/main/icons/java.svg" alt="Java"></a>
+<a href="https://www.python.org" target="_blank"><img align="left" src="https://github.com/ali-mohamed-nasser/ali-mohamed-nasser/blob/main/icons/python.svg" alt="Python"></a>
+<a href="https://www.tensorflow.org" target="_blank"><img align="left" src="https://github.com/ali-mohamed-nasser/ali-mohamed-nasser/blob/main/icons/tensorflow.svg" alt="tensorflow"/></a> 
+<a href="https://git-scm.com/" target="_blank"> <img src="https://github.com/ali-mohamed-nasser/ali-mohamed-nasser/blob/main/icons/git-scm.svg" align="left" alt="git"/></a>
+<a href="https://code.visualstudio.com/" target="_blank"><img align="left" src="https://github.com/ali-mohamed-nasser/ali-mohamed-nasser/blob/main/icons/vscode.svg" alt="vs code"/></a>
+<a href="https://www.adobe.com/products/xd.html" target="_blank"><img align="left" src="https://github.com/ali-mohamed-nasser/ali-mohamed-nasser/blob/main/icons/adobe-xd.svg" alt="adobe xd"/></a>
+<a href="https://www.adobe.com/products/photoshop.html" target="_blank"><img align="left" src="https://github.com/ali-mohamed-nasser/ali-mohamed-nasser/blob/main/icons/photoshop.svg" alt="adobe photoshop"/></a>
+<a href="https://www.adobe.com/products/illustrator.html" target="_blank"><img align="left" src="https://github.com/ali-mohamed-nasser/ali-mohamed-nasser/blob/main/icons/illustrator.svg" alt="adobe illustrator"/></a>
