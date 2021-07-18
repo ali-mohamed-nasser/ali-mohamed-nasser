@@ -13,7 +13,7 @@ An experienced web designer with a demonstrated history in designing and develop
 - 🌱 I’m currently learning **Redux, Next.js and Typescript.**
 - 👯 I’m looking to collaborate on **anything free and open source**
 - 👨🏻‍💻 Most of my projects are presented on [Behance](https://www.behance.net/ali_mohamed_nasser), and the codes on [Github](https://github.com/ali-mohamed-nasser?tab=repositories)
-- 💬 Ask me about **anythin in frontend web design**, I am happy to help if I can.
+- 💬 Ask me about **anything in frontend web design**, I am happy to help if I can.
 - 📫 How to reach me: [Click here to send me an email](mailto:ali.nasser.it@gmail.com)
 
 ### Languages and Tools:
