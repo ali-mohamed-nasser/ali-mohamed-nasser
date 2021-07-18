@@ -42,5 +42,4 @@ An experienced web designer with a demonstrated history in designing and develop
 <div align="center">
   
 ### Show some ❤️ by starring some of the repositories!
-  
 </div>
