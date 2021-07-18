@@ -14,9 +14,9 @@ An experienced web designer with a demonstrated history in designing and develop
 <a href="https://www.w3schools.com/html/" target="_blank"><img align="left" src="https://github.com/ali-mohamed-nasser/ali-mohamed-nasser/blob/main/icons/html.svg" alt="html5"/></a> 
 <a href="https://www.w3schools.com/css/" target="_blank"><img align="left" src="https://github.com/ali-mohamed-nasser/ali-mohamed-nasser/blob/main/icons/css.svg" alt="css3"/></a>
 <a href="https://sass-lang.com/" target="_blank"><img align="left" src="https://github.com/ali-mohamed-nasser/ali-mohamed-nasser/blob/main/icons/sass.svg" alt="sass"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img align="left" src="https://github.com/ali-mohamed-nasser/ali-mohamed-nasser/blob/main/icons/javascript.svg" alt="JavaScript"></a>
-<a href="https://getbootstrap.com/" target="_blank"><img align="left" src="https://github.com/ali-mohamed-nasser/ali-mohamed-nasser/blob/main/icons/jquery-original.svg" alt="bootstrap"/></a>
-<a href="https://jquery.com/" target="_blank"><img align="left" src="https://github.com/ali-mohamed-nasser/ali-mohamed-nasser/blob/main/icons/bootstrap.svg" alt="jquery-original"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img align="left" src="https://github.com/ali-mohamed-nasser/ali-mohamed-nasser/blob/main/icons/javascript.svg" alt="javaScript"></a>
+<a href="https://jquery.com/" target="_blank"><img align="left" src="https://github.com/ali-mohamed-nasser/ali-mohamed-nasser/blob/main/icons/jquery.svg" alt="jquery"/></a>
+<a href="https://getbootstrap.com/" target="_blank"><img align="left" src="https://github.com/ali-mohamed-nasser/ali-mohamed-nasser/blob/main/icons/bootstrap.svg" alt="bootstrap"/></a>
 <a href="https://reactjs.org/" target="_blank"><img align="left" src="https://github.com/ali-mohamed-nasser/ali-mohamed-nasser/blob/main/icons/react.svg" alt="React"></a>
 <a href="https://redux.js.org/" target="_blank"> <img align="left" src="https://github.com/ali-mohamed-nasser/ali-mohamed-nasser/blob/main/icons/redux.svg" alt="redux"/></a> 
 <a href="https://firebase.google.com/" target="_blank"> <img align="left" src="https://github.com/ali-mohamed-nasser/ali-mohamed-nasser/blob/main/icons/firebase.svg" alt="firebase"/></a>
@@ -26,5 +26,3 @@ An experienced web designer with a demonstrated history in designing and develop
 <a href="https://git-scm.com/" target="_blank"> <img src="https://github.com/ali-mohamed-nasser/ali-mohamed-nasser/blob/main/icons/git-scm.svg" align="left" alt="git"/></a>
 <a href="https://code.visualstudio.com/" target="_blank"><img align="left" src="https://github.com/ali-mohamed-nasser/ali-mohamed-nasser/blob/main/icons/vscode.svg" alt="vs code"/></a>
 <a href="https://www.adobe.com/products/xd.html" target="_blank"><img align="left" src="https://github.com/ali-mohamed-nasser/ali-mohamed-nasser/blob/main/icons/adobe-xd.svg" alt="adobe xd"/></a>
-<a href="https://www.adobe.com/products/photoshop.html" target="_blank"><img align="left" src="https://github.com/ali-mohamed-nasser/ali-mohamed-nasser/blob/main/icons/photoshop.svg" alt="adobe photoshop"/></a>
-<a href="https://www.adobe.com/products/illustrator.html" target="_blank"><img align="left" src="https://github.com/ali-mohamed-nasser/ali-mohamed-nasser/blob/main/icons/illustrator.svg" alt="adobe illustrator"/></a>
