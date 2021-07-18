@@ -3,9 +3,8 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/accounts/login/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/ali_mohamed_nasser)
 
+### About Me:
 An experienced web designer with a demonstrated history in designing and developing websites. Skilled in graphic design, UI/UX, web, and mobile apps interfaces, with the ability to perform meticulously with strict deadlines under pressure and with minimal supervision. I have a passion for design, an eye for detail, and a technical and creative mind to create a story for your business together on the website, not only for visually pleasing the watcher but an intriguing story that creates a mood draws the viewers and making them wait for your next product.
-
-### More About Me:
 - 🔭 I’m currently working on the graduation project of my studying at the department of artificial intelligence.
 - 🌱 I’m currently learning **Redux, Next.js and Typescript.**
 - 👯 I’m looking to collaborate on **anything free and open source**
