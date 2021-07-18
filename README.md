@@ -9,7 +9,7 @@
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-25d366?style=flat-square&logo=Whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=963938402636)
 
 ### About Me:
-An experienced frontend web developer with a demonstrated history in designing and developing websites. Skilled in graphic design, UI/UX, web, and mobile apps interfaces, with the ability to perform meticulously with strict deadlines under pressure and with minimal supervision. I have a passion for design, an eye for detail, and a technical and creative mind to create a story for your business together on the website, not only for visually pleasing the watcher but an intriguing story that creates a mood draws the viewers and making them wait for your next product.
+An experienced front-end web developer with a demonstrated history in designing and developing websites. Skilled in graphic design, UI/UX, web, and mobile apps interfaces, with the ability to perform meticulously with strict deadlines under pressure and with minimal supervision. I have a passion for design, an eye for detail, and a technical and creative mind to create a story for your business together on the website, not only for visually pleasing the watcher but an intriguing story that creates a mood that draws the viewers and making them wait for your next product.
 - 🔭 I’m currently working on the **graduation project** of my studying at **the department of artificial intelligence**.
 - 🌱 I’m currently learning [Redux](https://redux.js.org/), [Next.js](https://nextjs.org/) and [Typescript](https://www.typescriptlang.org/).
 - 👯 I’m looking to collaborate on **anything free and open source**
