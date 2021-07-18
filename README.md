@@ -11,10 +11,10 @@
 ### About Me:
 An experienced frontend web developer with a demonstrated history in designing and developing websites. Skilled in graphic design, UI/UX, web, and mobile apps interfaces, with the ability to perform meticulously with strict deadlines under pressure and with minimal supervision. I have a passion for design, an eye for detail, and a technical and creative mind to create a story for your business together on the website, not only for visually pleasing the watcher but an intriguing story that creates a mood draws the viewers and making them wait for your next product.
 - 🔭 I’m currently working on the **graduation project** of my studying at **the department of artificial intelligence**.
-- 🌱 I’m currently learning **Redux, Next.js and Typescript.**
+- 🌱 I’m currently learning [Redux](https://redux.js.org/), [Next.js](https://nextjs.org/) and [Typescript](https://www.typescriptlang.org/).
 - 👯 I’m looking to collaborate on **anything free and open source**
-- 👨🏻‍💻 Most of my projects are presented on [Behance](https://www.behance.net/ali_mohamed_nasser), and the codes on [Github](https://github.com/ali-mohamed-nasser?tab=repositories)
 - ❤️ I love to research, design wireframes and prototypes, build websites and web applications.
+- 👨🏻‍💻 Most of my projects are presented on [Behance](https://www.behance.net/ali_mohamed_nasser), and the codes on [Github](https://github.com/ali-mohamed-nasser?tab=repositories)
 - 💬 Ask me about **anything in frontend web design**, I am happy to help if I can.
 - 📫 How to reach me: [Click here to send me an email](mailto:ali.nasser.it@gmail.com)
 
