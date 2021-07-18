@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="36" height="36" viewBox="0 0 36 36">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_5" data-name="Rectangle 5" width="36" height="36" transform="translate(605 436)" fill="#eee"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_5" data-name="Mask Group 5" transform="translate(-605 -436)" clip-path="url(#clip-path)">
+    <g id="firebase" transform="translate(600.41 431.202)">
+      <path id="Path_22" data-name="Path 22" d="M26.661,17.8l-3.6,3.351-3.342-6.742,1.73-3.878c.45-.787,1.152-.778,1.59,0Z" fill="#ffa000"/>
+      <path id="Path_23" data-name="Path 23" d="M19.716,14.406l3.342,6.742L9.6,33.67Z" fill="#f57f17"/>
+      <path id="Path_24" data-name="Path 24" d="M30.6,12.674c.643-.619,1.309-.407,1.479.469l3.5,20.361L23.968,40.477a5.489,5.489,0,0,1-1.485.322,5.039,5.039,0,0,1-1.357-.337L9.6,33.67Z" fill="#ffca28"/>
+      <path id="Path_25" data-name="Path 25" d="M19.716,14.406,9.6,33.671,14.1,5.516c.166-.877.666-.962,1.111-.188Z" fill="#ffa000"/>
+    </g>
+  </g>
+</svg>
