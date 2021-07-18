@@ -1,4 +1,4 @@
-## Hello World <img src="https://github.com/ali-mohamed-nasser/ali-mohamed-nasser/blob/main/icons/hello.gif" width="26"> I am Ali Nasser!
+## Hello World! I am Ali <img src="https://github.com/ali-mohamed-nasser/ali-mohamed-nasser/blob/main/icons/hello.gif" width="26">
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ali-mohamed-nasser/)
 [![Behance Badge](https://img.shields.io/badge/-Behance-131418?style=flat-square&logo=Behance&logoColor=white)](https://www.behance.net/ali_mohamed_nasser)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/ali.naser1997)
