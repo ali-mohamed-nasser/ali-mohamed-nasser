@@ -7,6 +7,7 @@
 [![Pinterest Badge](https://img.shields.io/badge/-Pinterest-bd081c?style=flat-square&logo=Pinterest&logoColor=white)](https://ro.pinterest.com/ali_mohamed_nasser/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/ali_mohamed_nasser)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-25d366?style=flat-square&logo=Whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=963938402636)
+[![Skype Badge](https://img.shields.io/badge/-Skype-00aff0?style=flat-square&logo=Skype&logoColor=white)](https://join.skype.com/invite/Dc8wTfQs1tZI)
 
 ### About Me:
 An experienced front-end web developer with a demonstrated history in designing and developing websites. Skilled in graphic design, UI/UX, web, and mobile apps interfaces, with the ability to perform meticulously with strict deadlines under pressure and with minimal supervision. I have a passion for design, an eye for detail, and a technical and creative mind to create a story for your business together on the website, not only for visually pleasing the watcher but an intriguing story that creates a mood that draws the viewers and making them wait for your next product.
