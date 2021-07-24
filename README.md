@@ -18,6 +18,7 @@ An experienced front-end web developer with a demonstrated history in designing 
 - 👨🏻‍💻 Most of my projects are presented on [Behance](https://www.behance.net/ali_mohamed_nasser), and the codes on [Github](https://github.com/ali-mohamed-nasser?tab=repositories)
 - 💬 Ask me about **anything in frontend web design**, I am happy to help if I can.
 - 📫 How to reach me: [Send me an email](mailto:ali.nasser.it@gmail.com), or send me a message on the social websites above.
+- 📝 Checkout my [Resume](https://github.com/ali-mohamed-nasser/ali-mohamed-nasser/blob/master/resume.pdf).
 
 ### Languages and Tools:
 <a href="https://www.w3schools.com/html/" target="_blank"><img align="left" src="https://github.com/ali-mohamed-nasser/ali-mohamed-nasser/blob/main/icons/html.svg" alt="html5"/></a> 
