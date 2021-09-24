@@ -11,8 +11,8 @@
 
 ### About Me:
 An experienced front-end web developer with a demonstrated history in designing and developing websites. Skilled in graphic design, UI/UX, web, and mobile apps interfaces, with the ability to perform meticulously with strict deadlines under pressure and with minimal supervision. I have a passion for design, an eye for detail, and a technical and creative mind to create a story for your business together on the website, not only for visually pleasing the watcher but an intriguing story that creates a mood that draws the viewers and making them wait for your next product.
-- 🔭 I’m currently working on the **graduation project** of my studying at **the department of artificial intelligence**.
-- 🌱 I’m currently learning [Typescript](https://www.typescriptlang.org/).
+- 🔭 I’m currently working on **L-One Systems Company**.
+- 🌱 I’m currently learning [NuxtJs](https://nuxtjs.org/).
 - 👯 I’m looking to collaborate on **anything free and open source**
 - ❤️ I love to research, design wireframes and prototypes, build websites and web applications.
 - 👨🏻‍💻 Most of my projects are presented on [Behance](https://www.behance.net/ali_mohamed_nasser), and the codes on [Github](https://github.com/ali-mohamed-nasser?tab=repositories)
