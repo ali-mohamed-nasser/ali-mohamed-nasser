@@ -40,7 +40,7 @@ An experienced front-end web developer with a demonstrated history in designing 
 
 #
 
-
+<img height="185em" src="https://github-readme-stats.vercel.app/api?username=ali-mohammed-nasser&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ali-mohammed-nasser&show_icons=true&hide_border=true&layout=compact&langs_count=12)](https://github.com/anuraghazra/github-readme-stats)
 
 #
 <div align="center">
