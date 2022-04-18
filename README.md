@@ -10,7 +10,9 @@
 [![Skype Badge](https://img.shields.io/badge/-Skype-00aff0?style=flat-square&logo=Skype&logoColor=white)](https://join.skype.com/invite/Dc8wTfQs1tZI)
 
 ### About Me:
-An experienced front-end web developer with a demonstrated history in designing and developing websites. Skilled in graphic design, UI/UX, web, and mobile apps interfaces, with the ability to perform meticulously with strict deadlines under pressure and with minimal supervision. I have a passion for design, an eye for detail, and a technical and creative mind to create a story for your business together on the website, not only for visually pleasing the watcher but an intriguing story that creates a mood that draws the viewers and making them wait for your next product.
+An experienced front-end web developer with a demonstrated history in designing and developing websites. Skilled in web design & development, and UI/UX, with the ability to perform meticulously with strict deadlines under pressure and with minimal supervision. I have a passion for design, an eye for detail, and a technical and creative mind to create a story for your business together on the website, not only to visually please the watcher but an intriguing story that creates a mood that draws the viewers and making them wait for your next product.
+
+My strongest skills are VueJS, NuxtJS, Javascript, and Typescript. I learned a lot of concepts from senior developers in my current work. And I gained a solid background in programming & problem solving from my study at IT college. I also spent most of my time in front of my computer developing side projects which gave me a good understanding of this field.
 - 🔭 I’m currently working at **L-One Systems GmbH Company**.
 - 🌱 I’m currently learning [VueJs](https://vuejs.org/) and [NuxtJs](https://nuxtjs.org/).
 - 👯 I’m looking to collaborate on **anything free and open source**
