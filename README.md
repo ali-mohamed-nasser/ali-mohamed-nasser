@@ -2,6 +2,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ali-mohammed-nasser/)
 [![Behance Badge](https://img.shields.io/badge/-Behance-131418?style=flat-square&logo=Behance&logoColor=white)](https://www.behance.net/ali_mohammed_nasser)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/ali.mohammed.nasser.97)
+[![Flickr Badge](https://img.shields.io/badge/-Flickr-bd081c?style=flat-square&logo=Flickr&logoColor=white)](https://www.flickr.com/photos/ali_mohamed_nasser)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/ali_mohammed_nasser/)
 [![Dribbble Badge](https://img.shields.io/badge/-Dribbble-ea4c89?style=flat-square&logo=Dribbble&logoColor=white)](https://dribbble.com/ali_mohammed_nasser)
 [![Pinterest Badge](https://img.shields.io/badge/-Pinterest-bd081c?style=flat-square&logo=Pinterest&logoColor=white)](https://ro.pinterest.com/ali_mohammed_nasser/)
