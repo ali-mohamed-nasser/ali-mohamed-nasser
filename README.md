@@ -32,11 +32,12 @@ My strongest skills are VueJS, NuxtJS, Javascript, and Typescript. I learned a l
 <a href="https://reactjs.org/" target="_blank"><img align="left" src="https://github.com/ali-mohammed-nasser/ali-mohammed-nasser/blob/main/icons/react.svg" alt="React"></a>
 <a href="https://redux.js.org/" target="_blank"> <img align="left" src="https://github.com/ali-mohammed-nasser/ali-mohammed-nasser/blob/main/icons/redux.svg" alt="redux"/></a> 
 <a href="https://firebase.google.com/" target="_blank"> <img align="left" src="https://github.com/ali-mohammed-nasser/ali-mohammed-nasser/blob/main/icons/firebase.svg" alt="firebase"/></a>
-<a href="https://www.java.com" target="_blank"><img align="left" src="https://github.com/ali-mohammed-nasser/ali-mohammed-nasser/blob/main/icons/java.svg" alt="Java"></a>
+<a href="https://vuejs.org/" target="_blank"><img align="left" src="https://github.com/ali-mohammed-nasser/ali-mohammed-nasser/blob/main/icons/vuejs.svg" alt="VueJS"></a>
+<a href="https://nuxtjs.org/" target="_blank"><img align="left" src="https://github.com/ali-mohammed-nasser/ali-mohammed-nasser/blob/main/icons/nuxtjs.svg" alt="NuxtJS"/></a> 
 <a href="https://www.python.org" target="_blank"><img align="left" src="https://github.com/ali-mohammed-nasser/ali-mohammed-nasser/blob/main/icons/python.svg" alt="Python"></a>
-<a href="https://www.tensorflow.org" target="_blank"><img align="left" src="https://github.com/ali-mohammed-nasser/ali-mohammed-nasser/blob/main/icons/tensorflow.svg" alt="tensorflow"/></a> 
+<a href="https://www.docker.com/" target="_blank"><img align="left" src="https://github.com/ali-mohammed-nasser/ali-mohammed-nasser/blob/main/icons/docker.svg" alt="Docker"/></a> 
 <a href="https://git-scm.com/" target="_blank"> <img src="https://github.com/ali-mohammed-nasser/ali-mohammed-nasser/blob/main/icons/git.svg" align="left" alt="git"/></a>
-<a href="https://code.visualstudio.com/" target="_blank"><img align="left" src="https://github.com/ali-mohammed-nasser/ali-mohammed-nasser/blob/main/icons/vscode.svg" alt="vs code"/></a>
+<a href="https://jestjs.io/" target="_blank"><img align="left" src="https://github.com/ali-mohammed-nasser/ali-mohammed-nasser/blob/main/icons/jest.svg" alt="Jest"/></a>
 <a href="https://www.adobe.com/products/xd.html" target="_blank"><img align="left" src="https://github.com/ali-mohammed-nasser/ali-mohammed-nasser/blob/main/icons/adobe-xd.svg" alt="adobe xd"/></a>
 <br/>
 
