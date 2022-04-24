@@ -38,7 +38,6 @@ My strongest skills are VueJS, NuxtJS, Javascript, and Typescript. I learned a l
 <a href="https://www.docker.com/" target="_blank"><img align="left" src="https://github.com/ali-mohammed-nasser/ali-mohammed-nasser/blob/main/icons/docker.svg" alt="Docker"/></a> 
 <a href="https://git-scm.com/" target="_blank"> <img src="https://github.com/ali-mohammed-nasser/ali-mohammed-nasser/blob/main/icons/git.svg" align="left" alt="git"/></a>
 <a href="https://jestjs.io/" target="_blank"><img align="left" src="https://github.com/ali-mohammed-nasser/ali-mohammed-nasser/blob/main/icons/jest.svg" alt="Jest"/></a>
-<a href="https://www.adobe.com/products/xd.html" target="_blank"><img align="left" src="https://github.com/ali-mohammed-nasser/ali-mohammed-nasser/blob/main/icons/adobe-xd.svg" alt="adobe xd"/></a>
 <br/>
 
 #
