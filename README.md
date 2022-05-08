@@ -50,6 +50,8 @@ My strongest skills are **VueJS, NuxtJS, Javascript, and Typescript**. I learned
   <img align="center" style="height: 15em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali-mohammed-nasser&show_icons=true&hide_border=true&layout=compact&langs_count=12&count_private=true&include_all_commits=true" />
 </a>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ali-mohammed-nasser&count_private=true)
+
 #
 <div align="center">
   
