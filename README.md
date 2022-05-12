@@ -42,11 +42,9 @@ My strongest skills are **VueJS, NuxtJS, Javascript, and Typescript**. I learned
 <br/>
 
 # 
-<a href="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ali-mohammed-nasser&theme=github">
-  <img align="center" style="width: 100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ali-mohammed-nasser&theme=github" />
-</a>
+[![Ali Nassers's github activity graph](https://activity-graph.herokuapp.com/graph?username=ali-mohammed-nasser&bg_color=FFFFFF&line=0083ff&point=0083ff&color=000)](https://activity-graph.herokuapp.com/graph?username=ali-mohammed-nasser&bg_color=FFFFFF&line=0083ff&point=0083ff&color=000)
 
 <div align="center">
-  
+
 ### Show some ❤️ by starring some of the repositories!
 </div>
