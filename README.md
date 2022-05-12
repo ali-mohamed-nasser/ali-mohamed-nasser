@@ -50,10 +50,10 @@ My strongest skills are **VueJS, NuxtJS, Javascript, and Typescript**. I learned
 #
 
 <a href="https://github-readme-stats.vercel.app/api?username=ali-mohammed-nasser&count_private=true&hide_border=true">
-  <img align="center" style="height: 14em" src="https://github-readme-stats.vercel.app/api?username=ali-mohammed-nasser&count_private=true&hide_border=true" />
+  <img align="center" style="height: 14rem" src="https://github-readme-stats.vercel.app/api?username=ali-mohammed-nasser&count_private=true&hide_border=true" />
 </a>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ali-mohammed-nasser&count_private=true&hide_border=true&layout=compact&langs_count=10">
-  <img align="center" style="height: 14em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali-mohammed-nasser&count_private=true&hide_border=true&layout=compact&langs_count=10" />
+  <img align="center" style="height: 14rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali-mohammed-nasser&count_private=true&hide_border=true&layout=compact&langs_count=10" />
 </a>
 
 #
