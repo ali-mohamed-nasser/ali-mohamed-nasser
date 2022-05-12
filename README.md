@@ -44,7 +44,7 @@ My strongest skills are **VueJS, NuxtJS, Javascript, and Typescript**. I learned
 #
 
 <a href="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ali-mohammed-nasser&theme=github">
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ali-mohammed-nasser&theme=github" />
+  <img align="center" style="width: 100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ali-mohammed-nasser&theme=github" />
 </a>
 
 #
