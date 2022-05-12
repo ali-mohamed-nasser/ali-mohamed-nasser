@@ -41,8 +41,7 @@ My strongest skills are **VueJS, NuxtJS, Javascript, and Typescript**. I learned
 <a href="https://jestjs.io/" target="_blank"><img align="left" src="https://github.com/ali-mohammed-nasser/ali-mohammed-nasser/blob/main/icons/jest.svg" alt="Jest"/></a>
 <br/>
 
-#
-
+# 
 <a href="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ali-mohammed-nasser&theme=github">
   <img align="center" style="width: 100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ali-mohammed-nasser&theme=github" />
 </a>
