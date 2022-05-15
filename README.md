@@ -15,7 +15,7 @@ An experienced front-end web developer with a demonstrated history in designing 
 
 My strongest skills are **VueJS, NuxtJS, Javascript, and Typescript**. I learned a lot of concepts from senior developers in my current work. And I gained a solid background in programming & problem solving from my study at IT college. I also spent most of my time in front of my computer developing side projects which gave me a good understanding of this field.
 - 🔭 I’m working at **L-One Systems GmbH Company**.
-- 🌱 I’m currently learning some DevOps CI/CD and [GraphQL](https://graphql.org/).
+- 🌱 I’m currently learning some **DevOps CI/CD** and [GraphQL](https://graphql.org/).
 - 👯 I’m looking to collaborate on **anything free and open source**
 - ❤️ I love to research, design wireframes and prototypes, build websites and web applications.
 - 👨🏻‍💻 Most of my projects are presented on [Behance](https://www.behance.net/ali_mohammed_nasser), and the codes on [Github](https://github.com/ali-mohammed-nasser?tab=repositories)
