@@ -18,27 +18,27 @@ My strongest skills are **VueJS, NuxtJS, Javascript, and Typescript**. I learned
 - 🌱 I’m currently learning some **DevOps CI/CD** and [GraphQL](https://graphql.org/).
 - 👯 I’m looking to collaborate on **anything free and open source**
 - ❤️ I love to research, design wireframes and prototypes, build websites and web applications.
-- 👨🏻‍💻 Most of my projects are presented on [Behance](https://www.behance.net/ali_mohammed_nasser), and the codes on [Github](https://github.com/ali-mohammed-nasser?tab=repositories)
+- 👨🏻‍💻 Most of my projects are presented on [Behance](https://www.behance.net/ali_mohammed_nasser), and the codes on [Github](https://github.com/ali-mohammed-khair-nasser?tab=repositories)
 - 💬 Ask me about **anything in frontend web design**, I am happy to help if I can.
 - 📫 How to reach me: [Send me an email](mailto:ali.nasser.it@gmail.com), or send me a message on the social websites above.
-- 📝 Checkout my [Resume](https://github.com/ali-mohammed-nasser/ali-mohammed-nasser/blob/master/Ali%20Nasser%20CV.pdf).
+- 📝 Checkout my [Resume](https://github.com/ali-mohammed-khair-nasser/ali-mohammed-khair-nasser/blob/master/Ali%20Nasser%20CV.pdf).
 
 ### Languages and Tools:
-<a href="https://www.w3schools.com/html/" target="_blank"><img align="left" src="https://github.com/ali-mohammed-nasser/ali-mohammed-nasser/blob/main/icons/html.svg" alt="html5"/></a> 
-<a href="https://www.w3schools.com/css/" target="_blank"><img align="left" src="https://github.com/ali-mohammed-nasser/ali-mohammed-nasser/blob/main/icons/css.svg" alt="css3"/></a>
-<a href="https://sass-lang.com/" target="_blank"><img align="left" src="https://github.com/ali-mohammed-nasser/ali-mohammed-nasser/blob/main/icons/sass.svg" alt="sass"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img align="left" src="https://github.com/ali-mohammed-nasser/ali-mohammed-nasser/blob/main/icons/javascript.svg" alt="javaScript"></a>
-<a href="https://jquery.com/" target="_blank"><img align="left" src="https://github.com/ali-mohammed-nasser/ali-mohammed-nasser/blob/main/icons/jquery.svg" alt="jquery"/></a>
-<a href="https://getbootstrap.com/" target="_blank"><img align="left" src="https://github.com/ali-mohammed-nasser/ali-mohammed-nasser/blob/main/icons/bootstrap.svg" alt="bootstrap"/></a>
-<a href="https://reactjs.org/" target="_blank"><img align="left" src="https://github.com/ali-mohammed-nasser/ali-mohammed-nasser/blob/main/icons/react.svg" alt="React"></a>
-<a href="https://redux.js.org/" target="_blank"> <img align="left" src="https://github.com/ali-mohammed-nasser/ali-mohammed-nasser/blob/main/icons/redux.svg" alt="redux"/></a> 
-<a href="https://firebase.google.com/" target="_blank"> <img align="left" src="https://github.com/ali-mohammed-nasser/ali-mohammed-nasser/blob/main/icons/firebase.svg" alt="firebase"/></a>
-<a href="https://vuejs.org/" target="_blank"><img align="left" src="https://github.com/ali-mohammed-nasser/ali-mohammed-nasser/blob/main/icons/vuejs.svg" alt="VueJS"></a>
-<a href="https://nuxtjs.org/" target="_blank"><img align="left" src="https://github.com/ali-mohammed-nasser/ali-mohammed-nasser/blob/main/icons/nuxtjs.svg" alt="NuxtJS"/></a> 
-<a href="https://www.typescriptlang.org/" target="_blank"><img align="left" src="https://github.com/ali-mohammed-nasser/ali-mohammed-nasser/blob/main/icons/typescript.svg" alt="Typescript"></a>
-<a href="https://www.docker.com/" target="_blank"><img align="left" src="https://github.com/ali-mohammed-nasser/ali-mohammed-nasser/blob/main/icons/docker.svg" alt="Docker"/></a> 
-<a href="https://git-scm.com/" target="_blank"> <img src="https://github.com/ali-mohammed-nasser/ali-mohammed-nasser/blob/main/icons/git.svg" align="left" alt="git"/></a>
-<a href="https://jestjs.io/" target="_blank"><img align="left" src="https://github.com/ali-mohammed-nasser/ali-mohammed-nasser/blob/main/icons/jest.svg" alt="Jest"/></a>
+<a href="https://www.w3schools.com/html/" target="_blank"><img align="left" src="https://github.com/ali-mohammed-khair-nasser/ali-mohammed-khair-nasser/blob/main/icons/html.svg" alt="html5"/></a> 
+<a href="https://www.w3schools.com/css/" target="_blank"><img align="left" src="https://github.com/ali-mohammed-khair-nasser/ali-mohammed-khair-nasser/blob/main/icons/css.svg" alt="css3"/></a>
+<a href="https://sass-lang.com/" target="_blank"><img align="left" src="https://github.com/ali-mohammed-khair-nasser/ali-mohammed-khair-nasser/blob/main/icons/sass.svg" alt="sass"/> </a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img align="left" src="https://github.com/ali-mohammed-khair-nasser/ali-mohammed-khair-nasser/blob/main/icons/javascript.svg" alt="javaScript"></a>
+<a href="https://jquery.com/" target="_blank"><img align="left" src="https://github.com/ali-mohammed-khair-nasser/ali-mohammed-khair-nasser/blob/main/icons/jquery.svg" alt="jquery"/></a>
+<a href="https://getbootstrap.com/" target="_blank"><img align="left" src="https://github.com/ali-mohammed-khair-nasser/ali-mohammed-khair-nasser/blob/main/icons/bootstrap.svg" alt="bootstrap"/></a>
+<a href="https://reactjs.org/" target="_blank"><img align="left" src="https://github.com/ali-mohammed-khair-nasser/ali-mohammed-khair-nasser/blob/main/icons/react.svg" alt="React"></a>
+<a href="https://redux.js.org/" target="_blank"> <img align="left" src="https://github.com/ali-mohammed-khair-nasser/ali-mohammed-khair-nasser/blob/main/icons/redux.svg" alt="redux"/></a> 
+<a href="https://firebase.google.com/" target="_blank"> <img align="left" src="https://github.com/ali-mohammed-khair-nasser/ali-mohammed-khair-nasser/blob/main/icons/firebase.svg" alt="firebase"/></a>
+<a href="https://vuejs.org/" target="_blank"><img align="left" src="https://github.com/ali-mohammed-khair-nasser/ali-mohammed-khair-nasser/blob/main/icons/vuejs.svg" alt="VueJS"></a>
+<a href="https://nuxtjs.org/" target="_blank"><img align="left" src="https://github.com/ali-mohammed-khair-nasser/ali-mohammed-khair-nasser/blob/main/icons/nuxtjs.svg" alt="NuxtJS"/></a> 
+<a href="https://www.typescriptlang.org/" target="_blank"><img align="left" src="https://github.com/ali-mohammed-khair-nasser/ali-mohammed-khair-nasser/blob/main/icons/typescript.svg" alt="Typescript"></a>
+<a href="https://www.docker.com/" target="_blank"><img align="left" src="https://github.com/ali-mohammed-khair-nasser/ali-mohammed-khair-nasser/blob/main/icons/docker.svg" alt="Docker"/></a> 
+<a href="https://git-scm.com/" target="_blank"> <img src="https://github.com/ali-mohammed-khair-nasser/ali-mohammed-khair-nasser/blob/main/icons/git.svg" align="left" alt="git"/></a>
+<a href="https://jestjs.io/" target="_blank"><img align="left" src="https://github.com/ali-mohammed-khair-nasser/ali-mohammed-khair-nasser/blob/main/icons/jest.svg" alt="Jest"/></a>
 <br/>
 
 #
