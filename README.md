@@ -19,7 +19,7 @@ My strongest skills are **VueJS, NuxtJS, Javascript, and Typescript**. I learned
 - ❤️ I love to research, design wireframes and prototypes, build websites and web applications.
 - 👨🏻‍💻 Most of my projects are presented on [Behance](https://www.behance.net/ali_mohammed_nasser), and the codes on [Github](https://github.com/ali-mohammed-khair-nasser?tab=repositories)
 - 💬 Ask me about **anything in frontend web design**, I am happy to help if I can.
-- 📫 How to reach me: [Send me an email](mailto:ali.nasser.it@gmail.com), or send me a message on the social websites above.
+- 📫 How to reach me: [Send me an email](mailto:ali.nasser.dev@gmail.com), or send me a message on the social websites above.
 - 📝 Checkout my [Resume](https://github.com/ali-mohammed-khair-nasser/ali-mohammed-khair-nasser/blob/master/Ali%20Nasser%20CV.pdf).
 
 ### Languages and Tools:
